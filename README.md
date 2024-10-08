@@ -16,3 +16,5 @@ Privacy and Security: We prioritize user privacy and data security. Your health 
 Continuous Improvement: Our system is designed for continuous improvement. As we gather more data, the machine learning models evolve, providing increasingly accurate and relevant recommendations.
 
 Take charge of your health with our Personalized Medical Recommendation System. Your well-being is our priority, and we're dedicated to providing you with the tools and insights you need for a healthier, happier life.
+
+![Screenshot (35)](https://github.com/user-attachments/assets/7f94b64b-de59-4aee-a151-91c92a8f4031)
